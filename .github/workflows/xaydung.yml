@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
+  ROM_URL: https://get.pixelexperience.org/RWlKZ1lNWlBjVVlEd29zYVhBNFRYVnhyOFl2Y2E1NlIwRDZ2alFJNm1pYzQwZ3psWnZqTzUvS085OC9Ga3F4bGZ6aWRBUWc1UkpoeE5NdjgrL3hvU1MyN3RDRmRTZEdCNFlvdmkxdXY2aThVV2RQN1ZCcFNpV1R0NkxWRFNjQTQ=/PixelExperience_Plus_beryllium-10.0-20201011-1446-OFFICIAL.zip
   ROM_NAME: Generic
   BUILD_AB: true
-  BUILD_Aonly: false
-  ROM_AONLY: ROM_A.7z
-  ROM_AB: ROM_AB.7z
+  BUILD_Aonly: true
+  ROM_AONLY: PA_ROM_A.7z
+  ROM_AB: PA1_ROM_AB.7z
 
 jobs:
   build:
