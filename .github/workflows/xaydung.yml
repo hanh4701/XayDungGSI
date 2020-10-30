@@ -9,8 +9,8 @@ env:
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: false
-  ROM_AONLY: ROM_A.7z
-  ROM_AB: PA_ROM_AB.7z
+  ROM_AONLY: PA1_A.7z
+  ROM_AB: PIXELA1PLUS_ROM_AB.7z
 
 jobs:
   build:
