@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://liquidtelecom.dl.sourceforge.net/project/rmx1901-dev/ROMS/PixelExperience_Plus/PixelExperience_Plus_RMX1901-10.0-20200930-1238-UNOFFICIAL.zip
+  ROM_URL: https://get.pixelexperience.org/Q1o4VVJJNDV2V1ZHVXlLTGE4OGorMmtvVWVpYzZuTXVrdjFUK0pwVVNQT0JhSmt1ZjlNM3VjR2pSUjZLL25YOWpYYTYzc25vT1d2QjJScFBTZE01R1lBZ2tIZ2VkempYY2NBaU9BV001aUJOOW1nUmh6Tk91TzUxMlYrVEtHRFM=/PixelExperience_Plus_beryllium-10.0-20201011-1446-OFFICIAL.zip
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: false
